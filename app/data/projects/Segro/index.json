@@ -1,0 +1,15 @@
+{
+  "id": "Segro",
+  "name": "Segro",
+  "models": [
+    {
+      "id": "design",
+      "name": "Segro"
+    }
+  ],
+  "viewerContent": {
+    "modelsLoaded": [
+      "design"
+    ]
+  }
+}
